@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "644025355403fdd9fb1d14c0"
+  },
+  "rollno": 2,
+  "name": "Amrit",
+  "age": 20
+},{
+  "_id": {
+    "$oid": "644026cc5403fdd9fb1d14c1"
+  },
+  "rollno": 3,
+  "name": "Ranjan",
+  "agr": 21
+},{
+  "_id": {
+    "$oid": "644027725403fdd9fb1d14c2"
+  },
+  "rollno": 4,
+  "name": "Subhash",
+  "age": 22
+},{
+  "_id": {
+    "$oid": "644028415403fdd9fb1d14c3"
+  },
+  "rollno": 4,
+  "name": "Mayush",
+  "age": 23
+},{
+  "_id": {
+    "$oid": "6440291b5403fdd9fb1d14c4"
+  },
+  "rollno": 5,
+  "name": "Pankaj",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "644029d65403fdd9fb1d14c5"
+  },
+  "rollno": 5,
+  "name": "Henry",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "64402a255403fdd9fb1d14c6"
+  },
+  "rollno": 6,
+  "name": "Max",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "64402a785403fdd9fb1d14c7"
+  },
+  "rollno": 10,
+  "name": "Martin",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "64402aa55403fdd9fb1d14c8"
+  },
+  "rollno": 15,
+  "name": "Trevor",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "64402acc5403fdd9fb1d14c9"
+  },
+  "rollno": 14,
+  "name": "Michael",
+  "age": 30
+},{
+  "_id": {
+    "$oid": "64402af55403fdd9fb1d14ca"
+  },
+  "rollno": 16,
+  "name": "Frankline",
+  "age": 25
+}]
